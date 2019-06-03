@@ -60,8 +60,8 @@
       <file leaf-file-name="Sort.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cn/zynword/arithmetic/sort/Sort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+            <state relative-caret-position="153">
+              <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -205,73 +205,6 @@
             <path>
               <item name="arithmetic" type="b2602c69:ProjectViewProjectNode" />
               <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="arithmetic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="arithmetic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="arithmetic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="arithmetic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="dynamic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="arithmetic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="arithmetic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="matrix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="arithmetic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="arithmetic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="string" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="arithmetic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="structure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="arithmetic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -443,16 +376,15 @@
       <workItem from="1559003299680" duration="13000" />
       <workItem from="1559006316487" duration="597000" />
       <workItem from="1559144986228" duration="341000" />
-      <workItem from="1559525729733" duration="244000" />
+      <workItem from="1559525729733" duration="345000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74633000" />
+    <option name="totallyTimeSpent" value="74734000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="286" y="120" width="1440" height="850" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -464,7 +396,7 @@
       <window_info id="Designer" order="2" />
       <window_info anchor="bottom" id="Statistic" order="7" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" sideWeight="0.5231788" side_tool="true" visible="true" weight="0.28898427" />
+      <window_info id="Structure" order="1" sideWeight="0.52390057" side_tool="true" visible="true" weight="0.28898427" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3125828" />
@@ -474,8 +406,8 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32847682" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.30855018" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47682118" visible="true" weight="0.28898427" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30728477" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47609943" visible="true" weight="0.28898427" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -841,8 +773,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/zynword/arithmetic/sort/Sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+        <state relative-caret-position="153">
+          <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
         </state>
       </provider>
     </entry>
